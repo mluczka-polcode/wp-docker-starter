@@ -15,8 +15,8 @@ services:
       DB_PASS: root
       DB_PREFIX: wp_
       THEMES: >-
-        [underscore]https://github.com/konradbolek/underscore/archive/master.zip,
         [mymagazine]https://downloads.wordpress.org/theme/mymagazine.1.0.5.zip,
+        [underscore]https://github.com/konradbolek/underscore/archive/master.zip,
       PLUGINS: >-
         academic-bloggers-toolkit,
         co-authors-plus,
